@@ -9,9 +9,9 @@ Finally, the analysis pulled in closing price and daily return information on th
 
 To turn the analysis into a web-based application, Voila was run in the termnial, resulting in the webpage shown below:
 
-![Video: Web-based App using Volia](images/Screen Recording 2022-02-13 at 9.16.38 PM.mov)
+![Video: Web-based App using Volia](/images/Screen Recording 2022-02-13 at 9.16.38 PM.mov)
 
-![Screenshot: Web-based App using Volia](images/Screen Shot 2022-02-13 at 9.11.49 PM.png)
+![Screenshot: Web-based App using Volia](/images/Screen Shot 2022-02-13 at 9.11.49 PM.png)
 
 ## Technologies
 
